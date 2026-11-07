@@ -1,0 +1,22 @@
+node_modules/
+out/
+.remotion/
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# machine settings written by _tools/setup.py
+config.json
+
+# film folders created by _tools/scaffold.py, and workspace state
+/\[*/
+/_state/
+/jobs/
+
+# generated or third-party, see README
+_kit/public/score.wav
+_tools/bin/
+_tools/ffmpeg/
+_tools/texts/
+_tools/resolve/template-timeline.drt

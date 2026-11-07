@@ -1,0 +1,13 @@
+{
+ "fps": 30,
+ "width": 1920,
+ "height": 1080,
+ "overlap": 18,
+ "title": "CEL KIT",
+ "sub": "look-dev sandbox",
+ "series": "KIT",
+ "scenes": [
+  { "id": "title", "kind": "title", "duration": 150, "groups": [] },
+  { "id": "end", "kind": "end", "duration": 120, "groups": [] }
+ ]
+}

@@ -1,0 +1,27 @@
+{
+  "name": "cel-kit",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Cel-shaded film engine and sandbox (Three.js in Remotion), the template scaffold.py copies into films",
+  "scripts": {
+    "studio": "remotion studio",
+    "stills": "node scripts/celstills.mjs",
+    "typecheck": "tsc -p ."
+  },
+  "dependencies": {
+    "@remotion/bundler": "4.0.531",
+    "@remotion/cli": "4.0.531",
+    "@remotion/google-fonts": "4.0.531",
+    "@remotion/paths": "4.0.531",
+    "@remotion/renderer": "4.0.531",
+    "@types/three": "^0.186.0",
+    "react": "19.1.0",
+    "react-dom": "19.1.0",
+    "remotion": "4.0.531",
+    "three": "^0.186.1"
+  },
+  "devDependencies": {
+    "@types/react": "19.1.8",
+    "typescript": "5.8.3"
+  }
+}
